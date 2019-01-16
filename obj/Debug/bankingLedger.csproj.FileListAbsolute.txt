@@ -1,0 +1,6 @@
+C:\Users\Jon\Desktop\Jon Job Stuff\Code Sample\bankingLedger\bankingLedger\bin\Debug\bankingLedger.exe.config
+C:\Users\Jon\Desktop\Jon Job Stuff\Code Sample\bankingLedger\bankingLedger\bin\Debug\bankingLedger.exe
+C:\Users\Jon\Desktop\Jon Job Stuff\Code Sample\bankingLedger\bankingLedger\bin\Debug\bankingLedger.pdb
+C:\Users\Jon\Desktop\Jon Job Stuff\Code Sample\bankingLedger\bankingLedger\obj\Debug\bankingLedger.csprojResolveAssemblyReference.cache
+C:\Users\Jon\Desktop\Jon Job Stuff\Code Sample\bankingLedger\bankingLedger\obj\Debug\bankingLedger.exe
+C:\Users\Jon\Desktop\Jon Job Stuff\Code Sample\bankingLedger\bankingLedger\obj\Debug\bankingLedger.pdb
