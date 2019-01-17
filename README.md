@@ -1,2 +1,2 @@
 # LedgerConsole
-Code Sample Console Application
+Code Sample -- Console Application. Written in C#
